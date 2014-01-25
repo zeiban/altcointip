@@ -1,12 +1,14 @@
-# Reddit ALTcointip bot
+# moontippingbot for Reddit
 
 ## Introduction
 
+moontipbot is a fork of vindimy's ALTcointip bot, found at __https://github.com/vindimy/altcointip__ and inspired by mohland's dogetipbot, found at __https://github.com/mohland/dogetipbot
+
 For introduction to and use of ALTcointip bot, see __http://www.reddit.com/r/ALTcointip/wiki/index__
 
-## Getting Started
+Since moontippingbot is a fork of ALTcointip the instruction are the same.
 
->**NEW: See [altcointip-chef](https://github.com/vindimy/altcointip-chef) for Chef-automated installation and configuration of ALTcointip bot.**
+## ALTCointip Getting Started Instructions
 
 ### Python Dependencies
 
