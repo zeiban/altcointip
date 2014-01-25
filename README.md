@@ -1,12 +1,12 @@
-# moontippingbot for Reddit
+# tipmoonbot for Reddit
 
 ## Introduction
 
 moontipbot is a fork of vindimy's ALTcointip bot, found at __https://github.com/vindimy/altcointip__ and inspired by mohland's dogetipbot, found at __https://github.com/mohland/dogetipbot
 
-For introduction to and use of ALTcointip bot, see __http://www.reddit.com/r/ALTcointip/wiki/index__
+For introduction to and use of  bot, see __http://www.reddit.com/r/ALTcointip/wiki/index__
 
-Since moontippingbot is a fork of ALTcointip the instruction are the same.
+Since tipmoonbot is a fork of ALTcointip the instruction are the same.
 
 ## ALTCointip Getting Started Instructions
 
