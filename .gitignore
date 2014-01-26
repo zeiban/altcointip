@@ -38,3 +38,7 @@ nosetests.xml
 *.log*
 pifkoin
 conf
+
+# Bootstrap for Eclipse debugger
+debug.py
+debug.py
